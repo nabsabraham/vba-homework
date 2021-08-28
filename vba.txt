@@ -1,1 +1,6 @@
 fake homework
+i'm making some changes to this file 
+
+def function(arg):
+  print('hello grace')
+  return None
